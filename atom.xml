@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-29T08:43:50.330Z</updated>
+  <updated>2016-02-29T06:34:12.878Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,30 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2016/02/29/%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://yoursite.com/2016/02/29/博客学习/</id>
-    <published>2016-02-29T08:43:50.330Z</published>
-    <updated>2016-02-29T08:43:50.330Z</updated>
-    
-    <content type="html">&lt;h1 id=&quot;在此处输入标题&quot;&gt;&lt;a href=&quot;#在此处输入标题&quot; class=&quot;headerlink&quot; title=&quot;在此处输入标题&quot;&gt;&lt;/a&gt;在此处输入标题&lt;/h1&gt;&lt;p&gt;标签（空格分隔）： 未分类&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;在此输入正文&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;在此处输入标题&quot;&gt;&lt;a href=&quot;#在此处输入标题&quot; class=&quot;headerlink&quot; title=&quot;在此处输入标题&quot;&gt;&lt;/a&gt;在此处输入标题&lt;/h1&gt;&lt;p&gt;标签（空格分隔）： 未分类&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;在此输入正文&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>东风浩荡</title>
@@ -83,6 +59,29 @@
     <summary type="html">
     
       第一篇博客学习
+    
+    </summary>
+    
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+    
+    
+      <category term="博客学习" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2016/02/29/%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://yoursite.com/2016/02/29/博客学习/</id>
+    <published>2016-02-28T16:00:00.000Z</published>
+    <updated>2016-02-29T11:58:40.327Z</updated>
+    
+    <content type="html">&lt;p&gt;首先在~\github\hexo\source_posts目录下新建一个.md文件，这个文件即是你要写的博客。&lt;br&gt;写完博客后，在~\github\hexo的目录下右键运行Git Bush Here，再运行$ hexo g，&lt;img src=&quot;../uploads/hg.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      新手学习博客
     
     </summary>
     
