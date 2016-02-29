@@ -70,13 +70,13 @@
   </entry>
   
   <entry>
-    <title></title>
+    <title>博客学习</title>
     <link href="http://yoursite.com/2016/02/29/%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0/"/>
     <id>http://yoursite.com/2016/02/29/博客学习/</id>
     <published>2016-02-28T16:00:00.000Z</published>
-    <updated>2016-02-29T11:58:40.327Z</updated>
+    <updated>2016-02-29T12:36:48.498Z</updated>
     
-    <content type="html">&lt;p&gt;首先在~\github\hexo\source_posts目录下新建一个.md文件，这个文件即是你要写的博客。&lt;br&gt;写完博客后，在~\github\hexo的目录下右键运行Git Bush Here，再运行$ hexo g，&lt;img src=&quot;../uploads/hg.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;h1 id=&quot;博客学习&quot;&gt;&lt;a href=&quot;#博客学习&quot; class=&quot;headerlink&quot; title=&quot;博客学习&quot;&gt;&lt;/a&gt;博客学习&lt;/h1&gt;&lt;p&gt;首先在~\github\hexo\source_posts目录下新建一个.md文件(这里以“博客学习.md”文件为例)，这个文件即是你要写的博客。&lt;br&gt;写完博客后，在~\github\hexo的目录下右键执行Git Bush Here，再运行$ hexo g，这是把_posts目录下的.md文件转换为html文件（自动保存在public文件中）&lt;br&gt;&lt;img src=&quot;/uploads/hg.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;接下来我们跳转到public文件夹中，运行$ cd public&lt;br&gt;&lt;img src=&quot;/uploads/hg2.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;第一步，用命令git add告诉Git，把文件添加到仓库（运行$ git add .）：&lt;br&gt;&lt;img src=&quot;/uploads/hg3.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;第二步，用命令git commit告诉Git，把文件提交到仓库（$ git commit -m “c”）：&lt;br&gt;&lt;img src=&quot;/uploads/hg4.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;第三步，用命令git push告诉Git，把文件推送到远程仓库（$ git push origin master）：&lt;br&gt;&lt;img src=&quot;/uploads/hg5.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;第四步，先运行$ hexo s –debug，再查看页面情况（打开浏览器进入&lt;a href=&quot;http://127.0.0.1:4000/）：&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://127.0.0.1:4000/）：&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;/uploads/hg6.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/uploads/hg7.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
