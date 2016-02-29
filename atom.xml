@@ -4,21 +4,21 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://avatars1.githubusercontent.com/u/32269?v=3&s=460/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2016-02-29T06:34:12.878Z</updated>
-  <id>https://avatars1.githubusercontent.com/u/32269?v=3&s=460/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>minidog</name>
-    
+    <email>362969607@qq.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>东风浩荡</title>
-    <link href="https://avatars1.githubusercontent.com/u/32269?v=3&s=460/2016/02/29/jsdj/"/>
-    <id>https://avatars1.githubusercontent.com/u/32269?v=3&s=460/2016/02/29/jsdj/</id>
+    <link href="http://yoursite.com/2016/02/29/jsdj/"/>
+    <id>http://yoursite.com/2016/02/29/jsdj/</id>
     <published>2016-02-29T06:33:55.000Z</published>
     <updated>2016-02-29T06:34:12.878Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="blog" scheme="https://avatars1.githubusercontent.com/u/32269?v=3&s=460/categories/blog/"/>
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
     
     
-      <category term="博客学习" scheme="https://avatars1.githubusercontent.com/u/32269?v=3&s=460/tags/%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0/"/>
+      <category term="博客学习" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://avatars1.githubusercontent.com/u/32269?v=3&s=460/2016/02/29/hello-world/"/>
-    <id>https://avatars1.githubusercontent.com/u/32269?v=3&s=460/2016/02/29/hello-world/</id>
+    <link href="http://yoursite.com/2016/02/29/hello-world/"/>
+    <id>http://yoursite.com/2016/02/29/hello-world/</id>
     <published>2016-02-29T06:23:24.000Z</published>
     <updated>2016-02-29T06:27:07.411Z</updated>
     
@@ -62,10 +62,10 @@
     
     </summary>
     
-      <category term="blog" scheme="https://avatars1.githubusercontent.com/u/32269?v=3&s=460/categories/blog/"/>
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
     
     
-      <category term="博客学习" scheme="https://avatars1.githubusercontent.com/u/32269?v=3&s=460/tags/%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0/"/>
+      <category term="博客学习" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
